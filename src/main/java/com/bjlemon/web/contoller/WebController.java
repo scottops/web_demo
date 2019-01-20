@@ -12,7 +12,7 @@ public class WebController extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        resp.getWriter().println("v3:helloworld");
+        resp.getWriter().println("v4:helloworld");
     }
 
 }
