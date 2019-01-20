@@ -77,7 +77,7 @@
           <configuration>
             <url>http://192.168.135.128:8080/manager/text</url>
             <server>tomcat8</server>
-            <path>/ROOT</path>
+            <path>/web_demo</path>
             <charset>utf8</charset>
             <update>true</update>
           </configuration>
